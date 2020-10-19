@@ -1,58 +1,66 @@
 [
   {
     "count": 4,
-    "description": "Short Product Description1",
+    "description": "The beast is the most powerful Challenger Dodge makes.",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80aa",
-    "price": 2.4,
-    "title": "ProductOne"
+    "price": 80000,
+    "title": "Dodge Challenger SRT",
+    "photo": "https://carsdb.ru/super/cars/dodge_challenger_hellcat_redeye-923/preview.jpg"
   },
   {
     "count": 6,
-    "description": "Short Product Description3",
+    "description": "The Barracuda is a badass ride with the ability to go from 0 to 60 in less than 10 secs",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a0",
-    "price": 10,
-    "title": "ProductNew"
+    "price": 50000,
+    "title": "Plymouth Barracuda",
+    "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/news-photo-1598017482.jpg"
   },
   {
     "count": 7,
-    "description": "Short Product Description2",
+    "description": "1965 Mustang Shelby GT350 was a serious high- performance machine",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a2",
-    "price": 23,
-    "title": "ProductTop"
+    "price": 87000,
+    "title": "Shelby GT350",
+    "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/gt350-1533928653.jpg"
   },
   {
     "count": 12,
-    "description": "Short Product Description7",
+    "description": "GT 500 Shelby came with 355-hp 428-cubic-inch big-block power under the hood",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a1",
-    "price": 15,
-    "title": "ProductTitle"
+    "price": 115000,
+    "title": "Ford Mustang Shelby GT500",
+    "photo": "https://hips.hearstapps.com/pop.h-cdn.co/assets/cm/15/05/768x516/54cae421d40e4_-_american-muscle-facts-01-0312-de.jpg"
   },
   {
     "count": 7,
-    "description": "Short Product Description2",
+    "description": "The high-performance GTO version of Pontiac’s Tempest is regarded in many circles as the original muscle car",
     "id": "7567ec4b-b10c-48c5-9345-fc73c48a80a2",
-    "price": 23,
-    "title": "Product"
+    "price": 55000,
+    "title": "Pontiac Catalina",
+    "photo": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/1200px-1965-pontiac-catalina-2-2-14176796438-1533929906.jpg"
   },
   {
     "count": 8,
-    "description": "Short Product Description4",
+    "description": "It carries the highest factory horsepower rating of all muscle cars.",
     "id": "7567ec4b-b10c-48c5-9345-fc73348a80a1",
-    "price": 15,
-    "title": "ProductTest"
+    "price": 49000,
+    "title": "Chevy Chevelle SS",
+    "photo": "https://i.pinimg.com/564x/df/37/db/df37db8ec0c02a3bc81e53f321523abd.jpg"
   },
   {
     "count": 2,
-    "description": "Short Product Descriptio1",
+    "description": "425 Horsepower, 490 ft-lb of Torque",
     "id": "7567ec4b-b10c-48c5-9445-fc73c48a80a2",
-    "price": 23,
-    "title": "Product2"
+    "price": 34000,
+    "title": "DODGE CHARGER R/T-SE",
+    "photo": "https://www.zeroto60times.com/wp-content/uploads/2013/01/the-best-muscle-car.jpg"
   },
   {
     "count": 3,
-    "description": "Short Product Description7",
+    "description": "360 Horsepower, 440 ft-lb of Torque",
     "id": "7567ec4b-b10c-45c5-9345-fc73c48a80a1",
-    "price": 15,
-    "title": "ProductName"
+    "price": 140000,
+    "title": "SHELBY MUSTANG GT500-KR",
+    "photo": "https://www.zeroto60times.com/wp-content/uploads/2013/01/best-muscle-cars-ever.jpg"
   }
 ]
